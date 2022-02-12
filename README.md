@@ -4,7 +4,7 @@
   <img src="">
 </p> 
 
-<h3 align="center">Hi there 👋, I am VERSHIMA KELVIN ITYAVYAR</h3>
+<h3 align="center">Hi there 👋, I am VERSHIMA KELVIN ITYAVYAR😄</h3>
 
 Here are some ideas to get you started:
 
