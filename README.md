@@ -19,5 +19,7 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
                 <a href="http://www.instagram.com">
                     <img src="http://i.imgur.com/P3YfQoD.png" alt="Instagram Icon">
                 </a>
+                <a href="http://www.instagram.com">
+                    <img src="https://www.iconfinder.com/icons/5365678/fb_facebook_facebook_logo_icon" alt="Instagram Icon">
+                </a>
             </div>
-
