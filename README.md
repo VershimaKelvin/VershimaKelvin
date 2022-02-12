@@ -12,7 +12,7 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 
 ### 🤝Connect with me
 
-[![http://i.imgur.com/wWzX9uB.png]][http://www.instagram.com]
+[![http://i.imgur.com/wWzX9uB.png]][http://www.instagram.com]]
 [![alt text][http://i.imgur.com/fep1WsG.png]][http://www.facebook.com]
 [![alt text][http://i.imgur.com/wWzX9uB.png]][http://http://www.twitter.com]
               
