@@ -12,23 +12,7 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 
 ### 🤝Connect with me
 
-
-                <a href="http://www.instagram.com">
-                    <img src="http://i.imgur.com/wWzX9uB.png" alt="Instagram Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="http://www.facebook.com">
-                    <img src="http://i.imgur.com/fep1WsG.png" alt="Facebook Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="http://www.twitter.com">
-                    <img src="http://i.imgur.com/wWzX9uB.png" alt="Twitter Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="http://www.linkedin.com">
-                    <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
-                </a>
-            </div>
+[![alt text][http://i.imgur.com/wWzX9uB.png]][http://www.instagram.com]
+[![alt text][http://i.imgur.com/fep1WsG.png]][http://www.facebook.com]
+[![alt text][http://i.imgur.com/wWzX9uB.png]][http://http://www.twitter.com]
+              
