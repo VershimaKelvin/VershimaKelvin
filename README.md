@@ -1,7 +1,7 @@
 
 <h1 >Hi there 👋, I am VERSHIMA KELVIN ITYAVYAR😄</h1>
 
-Here are some ideas to get you started:
+Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 
 - 🔭 I’m currently working on Developing myself
 - 🌱 I’m currently learning everything
@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about writing clean and structured code
 - 📫 2022 goals: Build at leat 10 fully functional apps and contribute more to open source
 - ⚡ Fun fact: I enjoy taking risk thats why i trade Forex😄
--->
