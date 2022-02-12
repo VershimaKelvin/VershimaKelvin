@@ -13,7 +13,6 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 ### 🤝Connect with me
 
 <div class="social-icons-image">
-         
                 <a href="http://www.instagram.com">
                     <img src="http://i.imgur.com/tXSoThF.png" alt="Instagram Icon">
                 </a>
