@@ -14,6 +14,6 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 
   <div class="social-icons-image">
                 <a href="http://www.instagram.com">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Finstagram_1384015&psig=AOvVaw345lC0y4JdysGdXbMe1dC4&ust=1644760379350000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDv6_6n-vUCFQAAAAAdAAAAABAI" alt="Instagram Icon">
+                    <img src="http://i.imgur.com/wWzX9uB.png" alt="Instagram Icon">
                 </a>
             </div>
