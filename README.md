@@ -7,5 +7,5 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on anything that solves any problem
 - 💬 Ask me about writing clean and structured code
-- 📫 2022 goals: Build at leat 10 fully functional apps and contribute more to open source
+- 📫 2022 goals: Build at least 10 fully functional apps, contribute more to open source, release another version of Easypass😄(been lazy about it)
 - ⚡ Fun fact: I enjoy taking risk thats why i trade Forex😄
