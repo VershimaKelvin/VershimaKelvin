@@ -1,8 +1,7 @@
 
 <h1 >Hi there 👋, I am VERSHIMA KELVIN ITYAVYAR😄</h1>
 I am an enthusiastic Flutter/Android developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. I have a clear understanding of of Dart and Java, Motivated to learn, grow and excel.
-
-
+</br>
 Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 
 - 🔭 I’m currently working on Developing myself
