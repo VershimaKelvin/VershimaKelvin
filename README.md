@@ -12,8 +12,8 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 
 ### 🤝Connect with me
 
-[<img align="left" src="http://i.imgur.com/wWzX9uB.png"][]
-[![http://i.imgur.com/wWzX9uB.png]][http://www.instagram.com]]
-[![alt text][http://i.imgur.com/fep1WsG.png]][http://www.facebook.com]
-[![alt text][http://i.imgur.com/wWzX9uB.png]][http://http://www.twitter.com]
-              
+<div class="social-icons-image">
+                <a href="http://www.instagram.com">
+                    <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
+                </a>
+            </div>
