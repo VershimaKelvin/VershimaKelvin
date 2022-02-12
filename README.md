@@ -3,7 +3,7 @@
 I am an enthusiastic Flutter/Android developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. I have a clear understanding of of Dart and Java, Motivated to learn, grow and excel.
 <br></br>
 Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
-
+<br></br>
 - 🔭 I’m currently working on Developing myself
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on anything that solves any problem
