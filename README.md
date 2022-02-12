@@ -12,7 +12,7 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 
 ### 🤝Connect with me
 
-  <div class="social-icons-image">
+
                 <a href="http://www.instagram.com">
                     <img src="http://i.imgur.com/wWzX9uB.png" alt="Instagram Icon">
                 </a>
@@ -24,7 +24,7 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
             </div>
             <div class="social-icons-image">
                 <a href="http://www.twitter.com">
-                    <img src="http://jonbennallick.co.uk/wp-content/uploads/2012/11/Twitter-Logo-Icon-by-Jon-Bennallick-02-300x300.png" alt="Twitter Icon">
+                    <img src="http://i.imgur.com/wWzX9uB.png" alt="Twitter Icon">
                 </a>
             </div>
             <div class="social-icons-image">
