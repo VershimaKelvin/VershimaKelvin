@@ -9,3 +9,5 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 - 💬 Ask me about writing clean and structured code
 - 📫 2022 goals: Build at least 10 fully functional apps, contribute more to open source, release another version of Easypass😄(been lazy about it)
 - ⚡ Fun fact: I enjoy taking risk thats why i trade Forex😄
+
+# Connect with me:
