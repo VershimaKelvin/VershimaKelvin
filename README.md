@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**VershimaKelvin/VershimaKelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="">
+</p> 
 
 Here are some ideas to get you started:
 
