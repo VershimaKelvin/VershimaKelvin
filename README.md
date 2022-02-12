@@ -19,7 +19,7 @@ Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
             </div>
             <div class="social-icons-image">
                 <a href="http://www.facebook.com">
-                    <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon">
+                    <img src="http://i.imgur.com/fep1WsG.png" alt="Facebook Icon">
                 </a>
             </div>
             <div class="social-icons-image">
