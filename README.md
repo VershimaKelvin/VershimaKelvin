@@ -1,10 +1,5 @@
 
-
-<p align="center">
-  <img src="">
-</p> 
-
-<h3 align="center">Hi there 👋, I am VERSHIMA KELVIN ITYAVYAR😄</h3>
+<h1 >Hi there 👋, I am VERSHIMA KELVIN ITYAVYAR😄</h1>
 
 Here are some ideas to get you started:
 
