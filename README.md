@@ -1,6 +1,6 @@
 
 <h1 >Hi there 👋, I am VERSHIMA KELVIN ITYAVYAR😄</h1>
-I am an enthusiastic Software Quality Assurance Engineer and a Flutter/Android developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. I have a clear understanding of of Dart and Java, Motivated to learn, grow and excel.
+I am an enthusiastic Software Quality Assurance Engineer and a Flutter/Android developer currently exploring and trying my hands on Java Spring Boot. Eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. I have a clear understanding of Dart and Java, and I’m motivated to learn, grow, and excel in both development and backend technologies.
 <br></br>
 Dubito Ergo Cogito, Ergo Sum (I doubt therefore I think, I think therefore I am)
 
